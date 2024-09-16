@@ -8,3 +8,9 @@ ELIZA worked by using a simple pattern-matching technique to respond to users' i
 Weizenbaum said that Eliza represents a "parody", such as a psychotherapist might be present when first interviewing a patient.
 
 Sources: Wikipeia
+
+<br>
+Please Give me Feedback⬇️⬇️⬇️<br>
+[Wednesday_Quizz_Answers](https://github.com/VladKovalchuk241230/BUas-Block-A/blob/main/Quizzes/week2_wednesday_quizz.txt)<br>
+Please Give me Feedback(related to the ‘AI in Science Fiction’ presentation)⬇️⬇️⬇️<br>
+[AI in Science Fiction](https://github.com/VladKovalchuk241230/BUas-Block-A/blob/main/science_fiction_part.txt)<br>
